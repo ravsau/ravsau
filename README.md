@@ -22,11 +22,6 @@ I work on cloud systems and AI, and share what I learn along the way.
 - Creator of CloudYeti (tutorials, labs, and notes)  
 - Interested in practical AI and cloud infrastructure  
 
-### 📌 Some Projects
-- 🔧 AWS Labs – step-by-step cloud labs  
-- 🤖 AI Tutorials – code that accompanies videos  
-- 🧠 LangChain Notes – experiments and learning notes  
-- ☁️ AWS CLI Commands – useful command references  
 
 ### 🧭 Looking Ahead
 Interested in building solid AI infrastructure and useful developer tools.
