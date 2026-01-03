@@ -13,7 +13,7 @@ I work on cloud systems and AI, and share what I learn along the way.
 - 📫 You can find me here:
   - YouTube: https://cloud.saurav.io  
   - Blog: https://blog.saurav.io  
-  - Twitter/X: x.com/ravsau  
+  - Twitter/X: https://x.com/ravsau  
   - LinkedIn: https://linkedin.com/in/sauravsharma93  
 - ⚡ Fun fact: I enjoy making music and hope to release an EP or album someday  
 
