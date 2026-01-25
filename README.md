@@ -18,7 +18,7 @@ I work on cloud systems and AI, and share what I learn along the way.
 - ⚡ Fun fact: I enjoy making music and hope to release an EP or album someday  
 
 ### 👨‍💻 About Me
-- Software Engineer @ Amazon Web Services  
+- Software/AI Engineer. Previously @ Amazon Web Services. 
 - Creator of CloudYeti (tutorials, labs, and notes)  
 - Interested in practical AI and cloud infrastructure  
 
