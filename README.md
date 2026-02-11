@@ -11,7 +11,7 @@ I work on cloud systems and AI, and share what I learn along the way.
 -  Open to collaborating on AI, cloud, and developer tooling  
 -  Happy to talk about AWS, cloud automation, and applied AI  
 - 📫 You can find me here:
-  - YouTube: [https://cloud.saurav.io ](https://www.youtube.com/cloudyeti) 
+  - YouTube: [[https://cloud.saurav.io ](https://www.youtube.com/cloudyeti)](https://www.youtube.com/cloudyeti) 
   - Blog: https://blog.saurav.io  
   - Twitter/X: https://x.com/ravsau  
   - LinkedIn: https://linkedin.com/in/sauravsharma93  
