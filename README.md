@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Saurav
 
-AI Engineer & Consultant | Ex-Amazon/AWS | Creator of [CloudYeti](https://www.youtube.com/cloudyeti) (14K+ subs)
+AI Engineer & Consultant | Ex-Amazon/AWS | Creator of [CloudYeti](https://www.youtube.com/cloudyeti) (15K+ subs)
 
 I help teams ship GenAI to production — RAG pipelines, agentic workflows, and cloud-native AI architecture.
 
@@ -8,20 +8,14 @@ I help teams ship GenAI to production — RAG pipelines, agentic workflows, and 
 
 **Want to talk AI strategy, architecture, or consulting?**
 
-[![Book a Discovery Call](https://img.shields.io/badge/Book%20a%20Discovery%20Call-saurav.io-blue?style=for-the-badge)](https://saurav.io)
+[![Book a Discovery Call](https://img.shields.io/badge/Book%20a%20Discovery%20Call-saurav.io-blue?style=for-the-badge)](https://saurav.io/chat)
 
 ---
 
 ### 👨‍💻 About Me
 - Software/AI Engineer. Previously @ Amazon Web Services.
-- AWS Certified Solutions Architect Pro & ML Specialty
-- Creator of CloudYeti — tutorials, labs, and notes on cloud & AI
-- Building [Codita.ai](https://codita.ai) — AI consulting, events & training
-
-### 🔧 What I Work On
-- Production AI systems (RAG, agents, evaluations)
-- Agentic workflows with tool-use and MCP patterns
-- AWS Bedrock, Claude, and cloud-native AI infrastructure
+- AWS Certified Solutions Architect Pro & AI Practitioner
+- Building [CloudYeti](https://www.youtube.com/cloudyeti) — tutorials, labs, and notes on cloud & AI
 
 ### 📫 Find Me
 - 🌐 Website: [saurav.io](https://saurav.io)
@@ -29,7 +23,7 @@ I help teams ship GenAI to production — RAG pipelines, agentic workflows, and 
 - 📝 Blog: [blog.saurav.io](https://blog.saurav.io)
 - 🐦 Twitter/X: [@ravsau](https://x.com/ravsau)
 - 💼 LinkedIn: [sauravsharma93](https://linkedin.com/in/sauravsharma93)
-- 📧 Email: [hello@codita.ai](mailto:hello@codita.ai)
+- 📧 Email: [hello@saurav.io](mailto:hello@saurav.io)
 
 ### 🧭 Looking Ahead
 Building solid AI infrastructure, useful developer tools, and helping teams adopt AI effectively.
