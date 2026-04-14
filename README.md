@@ -1,31 +1,34 @@
 ## Hi there 👋 I'm Saurav
 
-AI Engineer & Consultant | Ex-Amazon/AWS | Creator of [CloudYeti](https://www.youtube.com/cloudyeti) (15K+ subs)
+AI & Cloud Cost Optimization Consultant | Ex-Amazon SDE + TAM (6 yrs) | 13x AWS Certified | Creator of [CloudYeti](https://www.youtube.com/cloudyeti) (15K+ subs)
 
-I help teams ship GenAI to production — RAG pipelines, agentic workflows, and cloud-native AI architecture.
+I help teams cut cloud and AI infrastructure costs — the right model for the right task, GPU rightsizing, and FinOps that actually works.
 
 ### 📅 Book a Call
 
-**Want to talk AI strategy, architecture, or consulting?**
+**Need help with AI & cloud costs? Book a paid 1:1 consultation.**
 
-[![Book a Discovery Call](https://img.shields.io/badge/Book%20a%20Discovery%20Call-saurav.io-blue?style=for-the-badge)](https://saurav.io/chat)
+[![Book a Consultation](https://img.shields.io/badge/Book%20a%20Consultation-cloudyeti.io-blue?style=for-the-badge)](https://cloudyeti.io/meet)
 
 ---
 
+### 🔨 What I'm Building
+
+- **[CloudYeti](https://cloudyeti.io)** — AI & Cloud Cost Optimization consulting. Workshops, assessments, and fractional FinOps for engineering teams.
+- **[Briefly](https://briefly.givingback.ai)** — Creator intelligence tool for YouTube. Upload your analytics CSV, get personalized video ideas, hooks, and growth strategy. Co-founded with [@sanjiblamichhane](https://github.com/sanjiblamichhane).
+- **[learn.cloudyeti.io](https://learn.cloudyeti.io)** — Cloud certification practice platform. 531 questions across AWS Solutions Architect, AI Practitioner, and Security.
+
 ### 👨‍💻 About Me
-- Software/AI Engineer. Previously @ Amazon Web Services.
-- AWS Certified Solutions Architect Pro & AI Practitioner
-- Building [CloudYeti](https://www.youtube.com/cloudyeti) — tutorials, labs, and notes on cloud & AI
+- 6 years at Amazon — Senior Technical Account Manager + Software Development Engineer
+- Built LLM platforms and RAG pipelines for Amazon's internal teams
+- 13x AWS Certified (Solutions Architect Pro, AI Practitioner, Security, and more)
+- HashiCorp Ambassador
+- Building [CloudYeti](https://www.youtube.com/cloudyeti) — hands-on AI & cloud tutorials, labs, and deep dives
 
 ### 📫 Find Me
-- 🌐 Website: [saurav.io](https://saurav.io)
+- 🌐 Website: [cloudyeti.io](https://cloudyeti.io)
 - 🎥 YouTube: [CloudYeti](https://www.youtube.com/cloudyeti)
-- 📝 Blog: [blog.saurav.io](https://blog.saurav.io)
+- 📝 Blog: [openclawdc.com](https://openclawdc.com)
 - 🐦 Twitter/X: [@ravsau](https://x.com/ravsau)
 - 💼 LinkedIn: [sauravsharma93](https://linkedin.com/in/sauravsharma93)
-- 📧 Email: [hello@saurav.io](mailto:hello@saurav.io)
-
-### 🧭 Looking Ahead
-Building solid AI infrastructure, useful developer tools, and helping teams adopt AI effectively.
-
-⚡ Fun fact: I enjoy making music and hope to release an EP or album someday
+- 📧 Email: [contact@cloudyeti.io](mailto:contact@cloudyeti.io)
