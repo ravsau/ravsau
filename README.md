@@ -17,7 +17,6 @@ I help teams cut cloud and AI infrastructure costs — the right model for the r
 - **[CloudYeti](https://cloudyeti.io)** — AI & Cloud Cost Optimization consulting. Workshops, assessments, and fractional FinOps for engineering teams.
 - **[Briefly](https://briefly.givingback.ai)** — Creator intelligence tool for YouTube. Upload your analytics CSV, get personalized video ideas, hooks, and growth strategy. Co-founded with [@sanjiblamichhane](https://github.com/sanjiblamichhane).
 - **[learn.cloudyeti.io](https://learn.cloudyeti.io)** — Cloud certification practice platform. 531 questions across AWS Solutions Architect, AI Practitioner, and Security.
-- **[EarnYeti](https://earnyeti.com)** — Income and side hustle tools. AI-powered quiz that scores your skills against real market opportunities.
 
 ### 👨‍💻 About Me
 - 6 years at Amazon — Senior Technical Account Manager + Software Development Engineer
