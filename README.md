@@ -28,7 +28,6 @@ I help teams cut cloud and AI infrastructure costs — the right model for the r
 ### 📫 Find Me
 - 🌐 Website: [cloudyeti.io](https://cloudyeti.io)
 - 🎥 YouTube: [CloudYeti](https://www.youtube.com/cloudyeti)
-- 📝 Blog: [openclawdc.com](https://openclawdc.com)
 - 🐦 Twitter/X: [@ravsau](https://x.com/ravsau)
 - 💼 LinkedIn: [sauravsharma93](https://linkedin.com/in/sauravsharma93)
 - 📧 Email: [contact@cloudyeti.io](mailto:contact@cloudyeti.io)
