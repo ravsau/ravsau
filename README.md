@@ -1,33 +1,28 @@
-## Hi there 👋 I'm Saurav
+## Hi, I’m Saurav
 
-AI & Cloud Cost Optimization Consultant | Ex-Amazon SDE + TAM (6 yrs) | 13x AWS Certified | Creator of [CloudYeti](https://www.youtube.com/cloudyeti) (15K+ subs)
+Fractional AI advisor and former Amazon engineer.
 
-I help teams cut cloud and AI infrastructure costs — the right model for the right task, GPU rightsizing, and FinOps that actually works.
+I help companies make better decisions about AI: what to build or buy, which models and tools to use, where costs can be reduced, and how to help teams adopt AI effectively.
 
-### 📅 Book a Call
+[![Book a Call](https://img.shields.io/badge/Book%20a%20Call-cloudyeti.io-blue?style=for-the-badge)](https://cloudyeti.io/meet)
 
-**Need help with AI & cloud costs? Book a paid 1:1 consultation.**
+### What I’m Building
 
-[![Book a Consultation](https://img.shields.io/badge/Book%20a%20Consultation-cloudyeti.io-blue?style=for-the-badge)](https://cloudyeti.io/meet)
+- **[CloudYeti](https://cloudyeti.io)** — Fractional AI advisory, cost audits, vendor reviews, and team training.
+- **[learn.cloudyeti.io](https://learn.cloudyeti.io)** — AWS certification practice quizzes covering Solutions Architect, AI Practitioner, Security, and more.
 
----
+### Background
 
-### 🔨 What I'm Building
+- Spent six years at Amazon across technical account management and software engineering
+- Built LLM platforms and RAG pipelines at Amazon
+- Creator of **[CloudYeti on YouTube](https://www.youtube.com/cloudyeti)**, with 15K+ subscribers
+- 13× AWS Certified
+- Inaugural HashiCorp Ambassador
 
-- **[CloudYeti](https://cloudyeti.io)** — AI & Cloud Cost Optimization consulting. Workshops, assessments, and fractional FinOps for engineering teams.
-- **[Briefly](https://briefly.givingback.ai)** — Creator intelligence tool for YouTube. Upload your analytics CSV, get personalized video ideas, hooks, and growth strategy. Co-founded with [@sanjiblamichhane](https://github.com/sanjiblamichhane).
-- **[learn.cloudyeti.io](https://learn.cloudyeti.io)** — Cloud certification practice platform. 531 questions across AWS Solutions Architect, AI Practitioner, and Security.
+### Find Me
 
-### 👨‍💻 About Me
-- 6 years at Amazon — Senior Technical Account Manager + Software Development Engineer
-- Built LLM platforms and RAG pipelines for Amazon's internal teams
-- 13x AWS Certified (Solutions Architect Pro, AI Practitioner, Security, and more)
-- HashiCorp Ambassador
-- Building [CloudYeti](https://www.youtube.com/cloudyeti) — hands-on AI & cloud tutorials, labs, and deep dives
-
-### 📫 Find Me
-- 🌐 Website: [cloudyeti.io](https://cloudyeti.io)
-- 🎥 YouTube: [CloudYeti](https://www.youtube.com/cloudyeti)
-- 🐦 Twitter/X: [@ravsau](https://x.com/ravsau)
-- 💼 LinkedIn: [sauravsharma93](https://linkedin.com/in/sauravsharma93)
-- 📧 Email: [contact@cloudyeti.io](mailto:contact@cloudyeti.io)
+- [Website](https://cloudyeti.io)
+- [YouTube](https://www.youtube.com/cloudyeti)
+- [LinkedIn](https://linkedin.com/in/sauravsharma93)
+- [X/Twitter](https://x.com/ravsau)
+- [hello@cloudyeti.io](mailto:hello@cloudyeti.io)
