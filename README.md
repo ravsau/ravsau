@@ -11,6 +11,15 @@ I help companies make better decisions about AI: what to build or buy, which mod
 - **[CloudYeti](https://cloudyeti.io)** — Fractional AI advisory, cost audits, vendor reviews, and team training.
 - **[learn.cloudyeti.io](https://learn.cloudyeti.io)** — AWS certification practice quizzes covering Solutions Architect, AI Practitioner, Security, and more.
 
+### Open Source Contributions
+
+Merged pull requests to open source projects. Updated weekly.
+
+<!-- OSS:START -->
+- **[ccusage/ccusage](https://github.com/ccusage/ccusage)** (18,571 ★): [fix: sort unified sessions by descending cost](https://github.com/ccusage/ccusage/pull/1720) · merged 2026-09-15
+- **[aws-samples/cfn101-workshop](https://github.com/aws-samples/cfn101-workshop)** (159 ★): [Added pseudo parameter module](https://github.com/aws-samples/cfn101-workshop/pull/137) · merged 2022-01-12
+<!-- OSS:END -->
+
 ### Background
 
 - Spent six years at Amazon across technical account management and software engineering
