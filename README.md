@@ -1,14 +1,15 @@
+```markdown
 # Hi, I'm Saurav 👋
 
 AI advisor, software engineer, and educator.
 
 I build, teach, and experiment with practical AI, especially **AI engineering, cloud, AI cost optimization, and AI fluency**.
 
-**For team training, workshops, or AI advisory:** [Book a call](https://cloudyeti.io/meet)
-
 ### CloudYeti
 
-[Website](https://cloudyeti.io/) · [YouTube](https://www.youtube.com/cloudyeti) · [Learn](https://learn.cloudyeti.io/)
+My main focus right now is [CloudYeti](https://cloudyeti.io/) — where I work on practical AI education, advisory, and team training.
+
+[Website](https://cloudyeti.io/) · [YouTube](https://www.youtube.com/cloudyeti) · [Learn](https://learn.cloudyeti.io/) · [Meet](https://cloudyeti.io/meet)
 
 **20K+ YouTube subscribers · 33K+ Udemy students**
 
@@ -23,3 +24,4 @@ I build, teach, and experiment with practical AI, especially **AI engineering, c
 ### Elsewhere
 
 [LinkedIn](https://linkedin.com/in/sauravsharma93) · [X](https://x.com/ravsau) · [hello@cloudyeti.io](mailto:hello@cloudyeti.io)
+```
