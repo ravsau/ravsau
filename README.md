@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm Saurav 👋
 
 AI advisor, software engineer, and educator.
@@ -24,4 +23,4 @@ My main focus right now is [CloudYeti](https://cloudyeti.io/) — where I work o
 ### Elsewhere
 
 [LinkedIn](https://linkedin.com/in/sauravsharma93) · [X](https://x.com/ravsau) · [hello@cloudyeti.io](mailto:hello@cloudyeti.io)
-```
+
