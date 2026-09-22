@@ -16,7 +16,10 @@ I help companies make better decisions about AI: what to build or buy, which mod
 Merged pull requests to open source projects. Updated weekly.
 
 <!-- OSS:START -->
-- **[ccusage/ccusage](https://github.com/ccusage/ccusage)** (18,667 ★): [fix: sort unified sessions by descending cost](https://github.com/ccusage/ccusage/pull/1720) · merged 2026-09-15
+- **[ccusage/ccusage](https://github.com/ccusage/ccusage)** (18,673 ★): [feat(codex): report models with missing pricing (co-author)](https://github.com/ccusage/ccusage/pull/1750) · merged 2026-09-17
+- **[ccusage/ccusage](https://github.com/ccusage/ccusage)** (18,673 ★): [fix(cli): reject unknown --timezone values (co-author)](https://github.com/ccusage/ccusage/pull/1735) · merged 2026-09-16
+- **[ccusage/ccusage](https://github.com/ccusage/ccusage)** (18,673 ★): [fix(cli): reject a --since date later than --until (co-author)](https://github.com/ccusage/ccusage/pull/1733) · merged 2026-09-16
+- **[ccusage/ccusage](https://github.com/ccusage/ccusage)** (18,673 ★): [fix: sort unified sessions by descending cost](https://github.com/ccusage/ccusage/pull/1720) · merged 2026-09-15
 - **[aws-samples/cfn101-workshop](https://github.com/aws-samples/cfn101-workshop)** (159 ★): [Added pseudo parameter module](https://github.com/aws-samples/cfn101-workshop/pull/137) · merged 2022-01-12
 <!-- OSS:END -->
 
